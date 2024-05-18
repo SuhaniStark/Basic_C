@@ -24,6 +24,6 @@ Learning C language parallels learning English: start with basic elements (alpha
 
 <html>
 <body>
-<img scr = "C:\Users\Suhani\Desktop\Screenshot 2024-05-18 194553.png" height = 500 width = 600 ></img>
+<img scr="C:\Users\Suhani\Desktop\Screenshot 2024-05-18 194553.png" width=700 height=500 ></img>
 </body>
 </html>
