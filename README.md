@@ -22,4 +22,8 @@ In conclusion, learning C is a crucial and beneficial first step in mastering pr
 # Getting Started With C
 Learning C language parallels learning English: start with basic elements (alphabets in English; alphabets, numbers, and symbols in C), form words (constants, variables, keywords), then sentences (instructions), and finally paragraphs (programs). This step-by-step approach simplifies the learning process for C programming.
 
-<img scr=
+<html>
+<body>
+<img scr = "C:\Users\Suhani\Desktop\Screenshot 2024-05-18 194553.png" height = 500 width = 600 ></img>
+</body>
+</html>
