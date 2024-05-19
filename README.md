@@ -27,38 +27,38 @@ Learning C language parallels learning English: start with basic elements (alpha
 A character denotes any alphabet, digit or special symbol used to
 represent information. 
 The valid alphabets,numbers and special symbols allowed in C are:
-1. Alphabets--> A.to.Z and a. to .z
-2. Digits--> 0,1,2,3,4,5,6,7,8,9
+1. Alphabets--> A.to.Z and a. to .z <br>
+2. Digits--> 0,1,2,3,4,5,6,7,8,9<br>
 3. Special Symbols--> ~!@#$%^&*()`:">?<,./';{}|\][
 
-4. 
+   
 # Constants, Variables and Keywords
 Constants are values that do not change, while variables are memory locations that can hold different values at different times. When programming, calculations are stored in memory cells, which are given names to facilitate retrieval and use. For example, if the value 3 is stored in a memory location named x and then changed to 5, x is a variable because it can hold different values. In contrast, the values 3 and 5 are constants because they do not change.
 
 
 # Types of constants
 C has basic two types of constants in its charater sets 
-a) Primary constants 
-b) secondary constants
+a) Primary constants <br>
+b) secondary constants <br>
 
 these constants are furthur classified into diffrent constants
 a) Primary Constant
-   i) integer constant
-   ii) Real constant
-   iii) character constant
+   i) integer constant<br>
+   ii) Real constant<br>
+   iii) character constant<br>
 b) Secondary constant
-   i) Array 
-   ii) pointer 
-   iii)structure 
-   iv) union
-   v) Enum etc.
+   i) Array <br>
+   ii) pointer <br>
+   iii)structure <br>
+   iv) union<br>
+   v) Enum etc.<br>
 # Rules for Constructing Integer Constants
-(a) An integer constant must have at least one digit.
-(b) It must not have a decimal point.
-(c) It can be either positive or negative.
-(d) If no sign precedes an integer constant it is assumed to be positive
-(e) No commas or blanks are allowed within an integer constant.
-(f) The allowable range for integer constants is -32768 to 32767.
+(a) An integer constant must have at least one digit.<br>
+(b) It must not have a decimal point.<br>
+(c) It can be either positive or negative.<br>
+(d) If no sign precedes an integer constant it is assumed to be positive <br>
+(e) No commas or blanks are allowed within an integer constant.<br>
+(f) The allowable range for integer constants is -32768 to 32767.<br>
 
 Truly speaking the range of an Integer constant depends upon the
 compiler. For a 16-bit compiler like Turbo C or Turbo C++ the 
